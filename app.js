@@ -1,3 +1,3 @@
 function changeFontSize() {
-    document.getElementById('grow').style.fontSize = "40px";
+  document.getElementById('grow').style.fontSize = "50px";
 }
